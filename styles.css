@@ -1,0 +1,14 @@
+.bg_yellow {
+  background-color: #f8f3df;
+}
+
+.bg_black {
+  background-color: black;
+}
+
+.maintxt {
+  background-image: url(https://sample-videos.com/img/Sample-png-image-200kb.png);
+  background-size: cover;
+  width: 100%;
+  height: 250px;
+}
